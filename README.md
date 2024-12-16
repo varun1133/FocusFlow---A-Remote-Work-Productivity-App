@@ -1,4 +1,4 @@
-### ** FocusFlow - A Remote Work Productivity App**
+###  FocusFlow - A Remote Work Productivity App
 
 ---
 
@@ -83,7 +83,7 @@
 ---
 
 #### **Support and Contributions**  
-Feel free to reach out for support or suggestions for improvement. Contributions to expand features are welcome. Contact us at **focusflow.support@example.com**.  
+Feel free to reach out for support or suggestions for improvement. Contributions to expand features are welcome. Contact me at **varungowda1103@gmail.com**.  
 
 ---
 
